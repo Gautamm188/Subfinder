@@ -1,0 +1,2 @@
+# Subfinder
+The goal is to develop a system where faculty attendance will be tracked online using any current biometrics systems (if any), and our software will quickly and automatically find a replacement teacher. It will benefit the committee in charge of the timetable and lighten their workload. It will lessen physical interference with the data and assist in preserving a spotless record for the faculty members.
